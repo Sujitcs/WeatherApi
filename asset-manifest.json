@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/WeatherApi/static/css/main.c99252d8.css",
+    "main.js": "/WeatherApi/static/js/main.d477ac7d.js",
+    "static/js/787.cda612ba.chunk.js": "/WeatherApi/static/js/787.cda612ba.chunk.js",
+    "static/media/haze.png": "/WeatherApi/static/media/haze.aeb9e4f6635c3169cb26.png",
+    "static/media/cloud.png": "/WeatherApi/static/media/cloud.20f353f873a9b27949a9.png",
+    "index.html": "/WeatherApi/index.html",
+    "main.c99252d8.css.map": "/WeatherApi/static/css/main.c99252d8.css.map",
+    "main.d477ac7d.js.map": "/WeatherApi/static/js/main.d477ac7d.js.map",
+    "787.cda612ba.chunk.js.map": "/WeatherApi/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c99252d8.css",
+    "static/js/main.d477ac7d.js"
+  ]
+}
